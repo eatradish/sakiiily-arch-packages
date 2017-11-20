@@ -817,6 +817,8 @@ poppler
 poppler-qt5
 popt
 powerdevil
+powerline-common
+powerline2
 ppp
 presentproto
 prison
@@ -848,6 +850,7 @@ python2-appdirs
 python2-dbus
 python2-packaging
 python2-pip
+python2-powerline
 python2-pyinotify
 python2-pyparsing
 python2-pyqt4
