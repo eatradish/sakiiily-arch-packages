@@ -735,6 +735,7 @@ netease-musicbox-git
 nettle
 networkmanager
 networkmanager-qt
+ninja
 nodejs
 noto-fonts
 noto-fonts-cjk
