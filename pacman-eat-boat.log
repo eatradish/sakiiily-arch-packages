@@ -2505,3 +2505,8 @@
 [2017-11-20 21:40] [PACMAN] Running 'pacman -S -y -u'
 [2017-11-20 21:40] [PACMAN] synchronizing package lists
 [2017-11-20 21:40] [PACMAN] starting full system upgrade
+[2017-11-21 00:15] [PACMAN] Running 'pacman -S arch-install-scripts'
+[2017-11-21 00:15] [ALPM] transaction started
+[2017-11-21 00:15] [ALPM] installed arch-install-scripts (17-1)
+[2017-11-21 00:15] [ALPM] transaction completed
+[2017-11-21 00:15] [ALPM] running 'systemd-update.hook'...

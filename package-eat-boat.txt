@@ -12,6 +12,7 @@ alsa-lib
 alsa-plugins
 appstream
 appstream-qt
+arch-install-scripts
 archlinux-appstream-data
 archlinux-keyring
 archlinuxcn-keyring
