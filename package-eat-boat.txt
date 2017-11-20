@@ -736,6 +736,7 @@ nettle
 networkmanager
 networkmanager-qt
 ninja
+ninja-ide
 nodejs
 noto-fonts
 noto-fonts-cjk
@@ -828,11 +829,13 @@ psmisc
 pulseaudio
 pulseaudio-gconf
 purpose
+pyqt4-common
 python
 python-appdirs
 python-beautifulsoup4
 python-chardet
 python-crypto
+python-dbus-common
 python-future
 python-idna
 python-packaging
@@ -844,10 +847,14 @@ python-six
 python-urllib3
 python2
 python2-appdirs
+python2-dbus
 python2-packaging
 python2-pip
+python2-pyinotify
 python2-pyparsing
+python2-pyqt4
 python2-setuptools
+python2-sip
 python2-six
 qca-qt5
 qpdf
@@ -909,6 +916,7 @@ signon-kwallet-extension
 signon-plugin-oauth2
 signon-ui
 signond
+sip
 slang
 smbclient
 smpeg
