@@ -12,4 +12,5 @@ cat package-$HOST.txt
 ...
 
 
-以后系统更新了什么可以在 upgraded.txt 的 commit 看了
+以后系统包管理做了什么变动可以在 pacman.log 的 commit 看了
+如果你 fork 了请先把 pacman.log 内容清理掉
