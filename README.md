@@ -12,4 +12,4 @@ cat package-$HOST.txt
 ...
 
 
-
+以后系统更新了什么可以在 upgraded.txt 的 commit 看了
