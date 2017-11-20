@@ -733,6 +733,7 @@ wavpack
 wayland
 wayland-protocols
 webrtc-audio-processing
+weechat
 wget
 which
 whois
