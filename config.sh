@@ -8,7 +8,7 @@ if [[ "$2" =~ "-S" ]] || [[ "$2" =~ "-R" ]] && [ "$1"="pacaur" ]; then
   else
     pacman -Qnq > "$LOCAL"/$name"-"$HOST".txt"
     pacman -Qmq >> "$LOCAL"/$name"-"$HOST".txt"
-    cp /var/log/pacman.log $LOCAL
+    cp /var/log/pacman.log $LOCAL/pacman-$HOST.log
     cd $LOCAL
     git add .
     git commit -m "package list update"
