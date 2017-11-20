@@ -8,9 +8,11 @@ if [[ "$2" =~ "-S" ]] || [[ "$2" =~ "-R" ]] && [ "$1"="pacaur" ]; then
   else
     pacman -Qnq > "$LOCAL"/$name"-"$HOST".txt"
     pacman -Qmq >> "$LOCAL"/$name"-"$HOST".txt"
+    cat /var/log/pacman.log | grep upgraded > upgrade.txt
     cd $LOCAL
     git add .
     git commit -m "package list update"
     git push
   fi
 fi
+
