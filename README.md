@@ -3,3 +3,12 @@
 
 ## config
 
+```
+# pacaman -S pacaur
+$ git clone https://github.com/eatradish/sakiiily-arch-packages.git
+#add (alias pacaur="/path/sakiiily-arch-packages/config.sh pacaur") to .bashrc or .zshrc
+cat package-x220i.txt
+...
+
+
+
