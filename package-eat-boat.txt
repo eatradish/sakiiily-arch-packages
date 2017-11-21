@@ -741,6 +741,7 @@ noto-fonts
 noto-fonts-cjk
 noto-fonts-emoji
 noto-fonts-extra
+npm
 npth
 nspr
 nss
@@ -911,6 +912,7 @@ sdl_image
 sdl_mixer
 sdl_ttf
 sed
+semver
 shadow
 shadowsocks-libev
 shared-mime-info

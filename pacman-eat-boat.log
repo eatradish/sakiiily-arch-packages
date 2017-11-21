@@ -2510,3 +2510,10 @@
 [2017-11-21 00:15] [ALPM] installed arch-install-scripts (17-1)
 [2017-11-21 00:15] [ALPM] transaction completed
 [2017-11-21 00:15] [ALPM] running 'systemd-update.hook'...
+[2017-11-22 01:14] [PACMAN] Running 'pacman -S nodejs npm'
+[2017-11-22 01:15] [ALPM] transaction started
+[2017-11-22 01:15] [ALPM] reinstalled nodejs (9.2.0-1)
+[2017-11-22 01:15] [ALPM] installed semver (5.4.1-1)
+[2017-11-22 01:15] [ALPM] installed npm (5.5.1-2)
+[2017-11-22 01:15] [ALPM] transaction completed
+[2017-11-22 01:15] [ALPM] running 'systemd-update.hook'...
