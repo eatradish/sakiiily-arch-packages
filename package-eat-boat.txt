@@ -168,6 +168,7 @@ grep
 groff
 grub
 gsettings-desktop-schemas
+gsl
 gsm
 gst-libav
 gst-plugins-bad
@@ -288,6 +289,7 @@ kparts
 kpeople
 kpty
 krb5
+krita
 krunner
 kscreen
 kscreenlocker
