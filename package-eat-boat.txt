@@ -524,6 +524,7 @@ libfbclient
 libfdk-aac
 libffi
 libfontenc
+libfreehand
 libgcrypt
 libgit2
 libglvnd
@@ -616,6 +617,7 @@ libsoxr
 libsrtp
 libssh
 libssh2
+libstaroffice
 libstemmer
 libsystemd
 libtar
