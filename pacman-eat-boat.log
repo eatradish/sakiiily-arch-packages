@@ -2565,3 +2565,4 @@
 [2017-11-23 00:25] [ALPM] installed jq (1.5-5)
 [2017-11-23 00:25] [ALPM] transaction completed
 [2017-11-23 00:25] [ALPM] running 'systemd-update.hook'...
+[2017-11-23 01:48] [PACMAN] Running 'pacman -S visual-studio-code'
