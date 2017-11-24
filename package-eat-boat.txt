@@ -1101,3 +1101,4 @@ zlib
 zsh
 zvbi
 command-not-found
+python-pywapi
