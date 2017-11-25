@@ -2594,3 +2594,19 @@
 [2017-11-24 12:39] [ALPM] installed python-pywapi (0.3.8-5)
 [2017-11-24 12:39] [ALPM] transaction completed
 [2017-11-24 12:39] [ALPM] running 'systemd-update.hook'...
+[2017-11-25 18:22] [PACMAN] Running 'pacman -S ipython'
+[2017-11-25 18:23] [ALPM] transaction started
+[2017-11-25 18:23] [ALPM] installed python-decorator (4.1.2-1)
+[2017-11-25 18:23] [ALPM] installed python-traitlets (4.3.2-1)
+[2017-11-25 18:23] [ALPM] installed python-ptyprocess (0.5.2-1)
+[2017-11-25 18:23] [ALPM] installed python-pexpect (4.3.0-1)
+[2017-11-25 18:23] [ALPM] installed python-pickleshare (0.7.4-3)
+[2017-11-25 18:23] [ALPM] installed python-pygments (2.2.0-1)
+[2017-11-25 18:23] [ALPM] installed python-wcwidth (0.1.7-2)
+[2017-11-25 18:23] [ALPM] installed python-prompt_toolkit (1.0.15-1)
+[2017-11-25 18:23] [ALPM] installed python-parso (0.1.1-1)
+[2017-11-25 18:23] [ALPM] installed python-jedi (0.11.0-1)
+[2017-11-25 18:23] [ALPM] installed ipython (6.2.1-2)
+[2017-11-25 18:23] [ALPM] transaction completed
+[2017-11-25 18:23] [ALPM] running 'systemd-update.hook'...
+[2017-11-25 18:23] [ALPM] running 'update-desktop-database.hook'...
