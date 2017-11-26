@@ -2610,3 +2610,6 @@
 [2017-11-25 18:23] [ALPM] transaction completed
 [2017-11-25 18:23] [ALPM] running 'systemd-update.hook'...
 [2017-11-25 18:23] [ALPM] running 'update-desktop-database.hook'...
+[2017-11-26 22:06] [PACMAN] Running 'pacman -S -y -u'
+[2017-11-26 22:06] [PACMAN] synchronizing package lists
+[2017-11-26 22:06] [PACMAN] starting full system upgrade
