@@ -60,6 +60,7 @@ chromium
 cifs-utils
 clucene
 cmake
+colord
 compositeproto
 convertlit
 coreutils
@@ -168,6 +169,7 @@ grep
 groff
 grub
 gsettings-desktop-schemas
+gsl
 gsm
 gst-libav
 gst-plugins-bad
@@ -206,6 +208,7 @@ inputproto
 iproute2
 iptables
 iputils
+ipython
 iso-codes
 iw
 jack
@@ -216,6 +219,7 @@ java-runtime-common
 jdk
 jdk8-openjdk
 jfsutils
+jq
 jre8-openjdk
 jre8-openjdk-headless
 js
@@ -288,6 +292,7 @@ kparts
 kpeople
 kpty
 krb5
+krita
 krunner
 kscreen
 kscreenlocker
@@ -524,12 +529,14 @@ libfbclient
 libfdk-aac
 libffi
 libfontenc
+libfreehand
 libgcrypt
 libgit2
 libglvnd
 libgme
 libgpg-error
 libgudev
+libgusb
 libical
 libice
 libid3tag
@@ -616,6 +623,7 @@ libsoxr
 libsrtp
 libssh
 libssh2
+libstaroffice
 libstemmer
 libsystemd
 libtar
@@ -750,6 +758,7 @@ nvidia
 nvidia-utils
 ocl-icd
 oh-my-zsh-git
+oniguruma
 openal
 opencore-amr
 openexr
@@ -838,15 +847,25 @@ python-beautifulsoup4
 python-chardet
 python-crypto
 python-dbus-common
+python-decorator
 python-future
 python-idna
+python-jedi
 python-packaging
+python-parso
+python-pexpect
+python-pickleshare
 python-pip
+python-prompt_toolkit
+python-ptyprocess
+python-pygments
 python-pyparsing
 python-requests
 python-setuptools
 python-six
+python-traitlets
 python-urllib3
+python-wcwidth
 python2
 python2-appdirs
 python2-dbus
@@ -892,6 +911,7 @@ redland
 reiserfsprogs
 renderproto
 resourceproto
+rest
 rhash
 rsync
 rtkit
@@ -932,6 +952,7 @@ sound-theme-freedesktop
 soundtouch
 spandsp
 spectacle
+speedtest-cli
 speex
 speexdsp
 sqlite
@@ -954,7 +975,6 @@ tevent
 texinfo
 thin-provisioning-tools
 threadweaver
-tilix
 tree
 tslib
 ttf-bitstream-vera
@@ -1095,3 +1115,4 @@ zlib
 zsh
 zvbi
 command-not-found
+python-pywapi
