@@ -975,7 +975,6 @@ tevent
 texinfo
 thin-provisioning-tools
 threadweaver
-tilix
 tree
 tslib
 ttf-bitstream-vera
@@ -1115,4 +1114,5 @@ zita-resampler
 zlib
 zsh
 zvbi
-
+command-not-found
+python-pywapi
