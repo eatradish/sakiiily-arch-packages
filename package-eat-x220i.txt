@@ -56,6 +56,7 @@ cdparanoia
 chromium
 cifs-utils
 cmake
+colord
 compositeproto
 convertlit
 coreutils
@@ -347,6 +348,7 @@ libgit2
 libglvnd
 libgpg-error
 libgudev
+libgusb
 libical
 libice
 libid3tag
@@ -657,6 +659,7 @@ recordproto
 reiserfsprogs
 renderproto
 resourceproto
+rest
 rhash
 rsync
 rtkit
