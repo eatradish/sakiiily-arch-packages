@@ -60,6 +60,7 @@ chromium
 cifs-utils
 clucene
 cmake
+colord
 compositeproto
 convertlit
 coreutils
@@ -535,6 +536,7 @@ libglvnd
 libgme
 libgpg-error
 libgudev
+libgusb
 libical
 libice
 libid3tag
@@ -909,6 +911,7 @@ redland
 reiserfsprogs
 renderproto
 resourceproto
+rest
 rhash
 rsync
 rtkit
