@@ -1,7 +1,9 @@
-/usr/bin/$*
+LOCAL="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 name=package
 HOST=`cat /etc/hostname`
-LOCAL="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+cd $LOCAL
+git pull
+/usr/bin/$*
 if [[ "$2" =~ "-S" ]] || [[ "$2" =~ "-R" ]] && [ "$1"="pacaur" ]; then
   if [[ "$2" =~ "-Ss" ]]; then
     exit 0

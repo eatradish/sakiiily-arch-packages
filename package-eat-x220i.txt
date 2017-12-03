@@ -493,6 +493,7 @@ lvm2
 lz4
 lzo
 m4
+mailcap
 make
 man-db
 man-pages
@@ -501,7 +502,6 @@ mdadm
 media-player-info
 mesa
 milou
-mime-types
 minizip
 mkinitcpio
 mkinitcpio-busybox
