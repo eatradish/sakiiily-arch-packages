@@ -488,6 +488,7 @@ llvm-libs
 lm_sensors
 lmdb
 logrotate
+lshw
 lua
 lvm2
 lz4
