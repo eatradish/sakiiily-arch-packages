@@ -319,6 +319,7 @@ ladspa
 lame
 lcms2
 ldb
+ldc
 ldns
 less
 lib32-acl
@@ -712,6 +713,7 @@ lvm2
 lz4
 lzo
 m4
+mailcap
 make
 man-db
 man-pages
@@ -721,7 +723,6 @@ media-player-info
 mesa
 mesa-demos
 milou
-mime-types
 minizip
 mjpegtools
 mkinitcpio
@@ -820,6 +821,7 @@ plasma-vault
 plasma-workspace
 plasma-workspace-wallpapers
 playonlinux
+po4a
 polipo
 polkit
 polkit-kde-agent
@@ -975,6 +977,7 @@ tevent
 texinfo
 thin-provisioning-tools
 threadweaver
+tilix
 tree
 tslib
 ttf-bitstream-vera
