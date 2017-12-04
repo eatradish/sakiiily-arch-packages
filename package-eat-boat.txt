@@ -145,6 +145,8 @@ gdb-common
 gdbm
 gdk-pixbuf2
 geoclue2
+geoip
+geoip-database
 gettext
 giflib
 git
@@ -745,6 +747,7 @@ netease-musicbox-git
 nettle
 networkmanager
 networkmanager-qt
+nginx
 nodejs
 noto-fonts
 noto-fonts-cjk
