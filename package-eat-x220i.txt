@@ -64,7 +64,6 @@ cower
 cracklib
 cryptsetup
 curl
-cutegram
 damageproto
 db
 dbus
