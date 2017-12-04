@@ -64,6 +64,7 @@ cower
 cracklib
 cryptsetup
 curl
+cutegram
 damageproto
 db
 dbus
@@ -399,6 +400,7 @@ libpulse
 libpwquality
 libqalculate
 libqmi
+libqtelegram-ae
 libraw
 libraw1394
 librsvg
@@ -704,6 +706,7 @@ talloc
 tar
 tdb
 telegram-desktop-systemqt
+telegramqml
 tevent
 texinfo
 thin-provisioning-tools
