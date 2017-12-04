@@ -157,6 +157,7 @@ glibc
 glproto
 glu
 gmp
+gnome-mpv
 gnome-themes-standard
 gnu-netcat
 gnupg
