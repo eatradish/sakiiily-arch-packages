@@ -2574,3 +2574,5 @@
 [2017-12-05 14:25] [PACMAN] Running 'pacman -S -y -u'
 [2017-12-05 14:25] [PACMAN] synchronizing package lists
 [2017-12-05 14:26] [PACMAN] starting full system upgrade
+[2017-12-05 14:28] [PACMAN] Running 'pacman -S -y -u'
+[2017-12-05 14:28] [PACMAN] synchronizing package lists

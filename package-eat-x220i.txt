@@ -1,4 +1,2 @@
 
-command-not-found
-lastpass-cli-git
-libxfont
+
