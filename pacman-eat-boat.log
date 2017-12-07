@@ -2974,3 +2974,8 @@
 [2017-12-07 08:52] [ALPM] installed ccze (0.2.1-9)
 [2017-12-07 08:52] [ALPM] transaction completed
 [2017-12-07 08:52] [ALPM] running 'systemd-update.hook'...
+[2017-12-07 08:53] [PACMAN] Running 'pacman -R ccze'
+[2017-12-07 08:53] [ALPM] transaction started
+[2017-12-07 08:53] [ALPM] removed ccze (0.2.1-9)
+[2017-12-07 08:53] [ALPM] transaction completed
+[2017-12-07 08:53] [ALPM] running 'systemd-update.hook'...
