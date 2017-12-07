@@ -151,6 +151,7 @@ gettext
 giflib
 git
 glew
+glew1.10
 glib-networking
 glib2
 glibc
@@ -476,6 +477,7 @@ libabw
 libaccounts-glib
 libaccounts-qt
 libaio
+libappindicator-gtk2
 libarchive
 libass
 libassuan
@@ -535,6 +537,7 @@ libffi
 libfontenc
 libfreehand
 libgcrypt
+libgcrypt15
 libgit2
 libglvnd
 libgme
@@ -552,6 +555,7 @@ libindicator-gtk2
 libinput
 libixion
 libjpeg-turbo
+libjpeg6-turbo
 libkate
 libkdcraw
 libkipi
@@ -601,6 +605,7 @@ libpinyin
 libpipeline
 libplist
 libpng
+libpng12
 libproxy
 libpsl
 libpulse
@@ -613,6 +618,7 @@ libraw1394
 libreoffice-fresh
 librevenge
 librsvg
+librtmp0
 libsamplerate
 libsasl
 libseccomp
@@ -636,6 +642,7 @@ libteam
 libthai
 libtheora
 libtiff
+libtiff4
 libtiger
 libtirpc
 libtommath
@@ -657,6 +664,7 @@ libvisual
 libvoikko
 libvorbis
 libvpx
+libvpx1.3
 libwacom
 libwbclient
 libwebp
@@ -934,6 +942,7 @@ sdl
 sdl2
 sdl2_image
 sdl2_mixer
+sdl2_ttf
 sdl_image
 sdl_mixer
 sdl_ttf
