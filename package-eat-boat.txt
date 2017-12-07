@@ -1129,6 +1129,7 @@ zita-alsa-pcmi
 zita-resampler
 zlib
 zsh
+zsh-syntax-highlighting
 zvbi
 command-not-found
 python-pywapi

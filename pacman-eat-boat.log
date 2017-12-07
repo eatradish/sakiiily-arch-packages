@@ -2979,3 +2979,10 @@
 [2017-12-07 08:53] [ALPM] removed ccze (0.2.1-9)
 [2017-12-07 08:53] [ALPM] transaction completed
 [2017-12-07 08:53] [ALPM] running 'systemd-update.hook'...
+[2017-12-07 08:59] [PACMAN] Running 'pacman -S zsh-syntax-highlighting'
+[2017-12-07 08:59] [ALPM] transaction started
+[2017-12-07 08:59] [ALPM] installed zsh-syntax-highlighting (0.6.0-1)
+[2017-12-07 08:59] [ALPM-SCRIPTLET] To activate zsh-syntax-highlighting, add the following line at the end of ~/.zshrc:
+[2017-12-07 08:59] [ALPM-SCRIPTLET]     source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+[2017-12-07 08:59] [ALPM] transaction completed
+[2017-12-07 08:59] [ALPM] running 'systemd-update.hook'...
