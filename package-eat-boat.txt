@@ -53,6 +53,7 @@ ca-certificates-utils
 cabextract
 cairo
 cantarell-fonts
+ccze
 cdparanoia
 celt
 chromaprint
