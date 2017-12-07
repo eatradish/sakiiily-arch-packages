@@ -854,6 +854,7 @@ psmisc
 pulseaudio
 pulseaudio-gconf
 purpose
+pygmentize
 pyqt4-common
 python
 python-appdirs
