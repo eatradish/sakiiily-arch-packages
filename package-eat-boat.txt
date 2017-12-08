@@ -42,6 +42,7 @@ breeze
 breeze-gtk
 breeze-icons
 bridge-utils
+brise
 btrfs-progs
 bumblebee
 bzip2
@@ -106,14 +107,11 @@ expat
 faac
 faad2
 fakeroot
-fcitx
-fcitx-cloudpinyin
-fcitx-gtk2
-fcitx-gtk3
-fcitx-libpinyin
-fcitx-qt4
-fcitx-qt5
-fcitx-sunpinyin
+fcitx5-chinese-addons-git
+fcitx5-git
+fcitx5-gtk-git
+fcitx5-qt-git
+fcitx5-rime-git
 ffmpeg
 ffmpeg2.8
 fftw
@@ -125,6 +123,7 @@ firefox-nightly-i18n-zh-cn
 fixesproto
 flac
 flex
+fmt
 font-bh-ttf
 fontconfig
 fonts-tlwg
@@ -151,6 +150,7 @@ gettext
 giflib
 git
 glew
+glew1.10
 glib-networking
 glib2
 glibc
@@ -162,6 +162,8 @@ gnome-themes-standard
 gnu-netcat
 gnupg
 gnutls
+google-glog
+gperftools
 gpgme
 gpm
 gptfdisk
@@ -238,6 +240,7 @@ kauth
 kbd
 kbookmarks
 kbproto
+kcm-fcitx5-git
 kcmutils
 kcodecs
 kcompletion
@@ -317,7 +320,6 @@ kwrite
 kwrited
 kxmlgui
 kxmlrpcclient
-kyotocabinet
 ladspa
 lame
 lcms2
@@ -325,6 +327,7 @@ ldb
 ldc
 ldns
 less
+leveldb
 lib32-acl
 lib32-alsa-lib
 lib32-alsa-plugins
@@ -476,6 +479,7 @@ libabw
 libaccounts-glib
 libaccounts-qt
 libaio
+libappindicator-gtk2
 libarchive
 libass
 libassuan
@@ -535,6 +539,7 @@ libffi
 libfontenc
 libfreehand
 libgcrypt
+libgcrypt15
 libgit2
 libglvnd
 libgme
@@ -547,11 +552,13 @@ libid3tag
 libidn
 libidn2
 libiec61883
+libime-git
 libimobiledevice
 libindicator-gtk2
 libinput
 libixion
 libjpeg-turbo
+libjpeg6-turbo
 libkate
 libkdcraw
 libkipi
@@ -597,10 +604,10 @@ libpaper
 libpcap
 libpciaccess
 libpgm
-libpinyin
 libpipeline
 libplist
 libpng
+libpng12
 libproxy
 libpsl
 libpulse
@@ -612,7 +619,9 @@ libraw
 libraw1394
 libreoffice-fresh
 librevenge
+librime
 librsvg
+librtmp0
 libsamplerate
 libsasl
 libseccomp
@@ -636,6 +645,7 @@ libteam
 libthai
 libtheora
 libtiff
+libtiff4
 libtiger
 libtirpc
 libtommath
@@ -657,6 +667,7 @@ libvisual
 libvoikko
 libvorbis
 libvpx
+libvpx1.3
 libwacom
 libwbclient
 libwebp
@@ -720,6 +731,7 @@ mailcap
 make
 man-db
 man-pages
+marisa
 mbedtls
 mdadm
 media-player-info
@@ -765,6 +777,7 @@ ocl-icd
 oh-my-zsh-git
 oniguruma
 openal
+opencc
 opencore-amr
 openexr
 openjpeg
@@ -846,6 +859,7 @@ psmisc
 pulseaudio
 pulseaudio-gconf
 purpose
+pygmentize
 pyqt4-common
 python
 python-appdirs
@@ -934,6 +948,7 @@ sdl
 sdl2
 sdl2_image
 sdl2_mixer
+sdl2_ttf
 sdl_image
 sdl_mixer
 sdl_ttf
@@ -965,8 +980,6 @@ sqlite
 steam
 steam-native-runtime
 sudo
-sunpinyin
-sunpinyin-data
 syntax-highlighting
 sysfsutils
 systemd
@@ -1033,6 +1046,7 @@ wxpython
 x265
 xapian-core
 xbitmaps
+xcb-imdkit-git
 xcb-proto
 xcb-util
 xcb-util-cursor
@@ -1114,12 +1128,14 @@ xterm
 xvidcore
 xz
 yajl
+yaml-cpp
 zenity
 zeromq
 zita-alsa-pcmi
 zita-resampler
 zlib
 zsh
+zsh-syntax-highlighting
 zvbi
 command-not-found
 python-pywapi
