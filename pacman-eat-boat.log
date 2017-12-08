@@ -3094,3 +3094,28 @@
 [2017-12-08 09:50] [ALPM] running 'systemd-update.hook'...
 [2017-12-08 09:50] [ALPM] running 'update-desktop-database.hook'...
 [2017-12-08 09:50] [ALPM] running 'update-mime-database.hook'...
+[2017-12-08 09:50] [PACMAN] Running 'pacman -S fcitx5-chinese-addons-git fcitx5-git fcitx5-qt-git fcitx5-rime-git kcm-fcitx5-git fcitx5-gtk-git'
+[2017-12-08 09:50] [ALPM] transaction started
+[2017-12-08 09:50] [ALPM] installed xcb-imdkit-git (r60.b82eddb-1)
+[2017-12-08 09:50] [ALPM] installed fmt (4.0.0-2)
+[2017-12-08 09:50] [ALPM] installed fcitx5-git (r332.97588d5-1)
+[2017-12-08 09:50] [ALPM] installed libime-git (r122.63dc8ac-1)
+[2017-12-08 09:50] [ALPM] installed opencc (1.0.5-1)
+[2017-12-08 09:50] [ALPM] installed fcitx5-chinese-addons-git (r91.3bf280b-1)
+[2017-12-08 09:50] [ALPM] installed fcitx5-qt-git (r111.63e9b36-1)
+[2017-12-08 09:50] [ALPM] installed yaml-cpp (0.5.3-3)
+[2017-12-08 09:50] [ALPM] installed gperftools (2.6.2-1)
+[2017-12-08 09:50] [ALPM] installed leveldb (1.20-1)
+[2017-12-08 09:50] [ALPM] installed google-glog (0.3.5-1)
+[2017-12-08 09:50] [ALPM] installed marisa (0.2.4-10)
+[2017-12-08 09:50] [ALPM] installed librime (1:1.2.9-6)
+[2017-12-08 09:50] [ALPM] installed brise (0.35.20160920-1)
+[2017-12-08 09:50] [ALPM] installed fcitx5-rime-git (r96.b7cc06b-1)
+[2017-12-08 09:50] [ALPM] installed kcm-fcitx5-git (r219.3dbe231-1)
+[2017-12-08 09:50] [ALPM] installed fcitx5-gtk-git (r25.3b28b5b-1)
+[2017-12-08 09:50] [ALPM] transaction completed
+[2017-12-08 09:50] [ALPM] running 'gtk-query-immodules-2.0.hook'...
+[2017-12-08 09:50] [ALPM] running 'gtk-query-immodules-3.0.hook'...
+[2017-12-08 09:50] [ALPM] running 'gtk-update-icon-cache.hook'...
+[2017-12-08 09:50] [ALPM] running 'systemd-update.hook'...
+[2017-12-08 09:50] [ALPM] running 'update-desktop-database.hook'...
