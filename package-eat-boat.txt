@@ -106,14 +106,6 @@ expat
 faac
 faad2
 fakeroot
-fcitx
-fcitx-cloudpinyin
-fcitx-gtk2
-fcitx-gtk3
-fcitx-libpinyin
-fcitx-qt4
-fcitx-qt5
-fcitx-sunpinyin
 ffmpeg
 ffmpeg2.8
 fftw
@@ -239,7 +231,6 @@ kauth
 kbd
 kbookmarks
 kbproto
-kcm-fcitx
 kcmutils
 kcodecs
 kcompletion
@@ -319,7 +310,6 @@ kwrite
 kwrited
 kxmlgui
 kxmlrpcclient
-kyotocabinet
 ladspa
 lame
 lcms2
@@ -602,7 +592,6 @@ libpaper
 libpcap
 libpciaccess
 libpgm
-libpinyin
 libpipeline
 libplist
 libpng
@@ -976,8 +965,6 @@ sqlite
 steam
 steam-native-runtime
 sudo
-sunpinyin
-sunpinyin-data
 syntax-highlighting
 sysfsutils
 systemd

@@ -3072,3 +3072,25 @@
 [2017-12-08 09:43] [ALPM] running 'systemd-update.hook'...
 [2017-12-08 09:47] [PACMAN] Running 'pacman -S fcitx5-chinese-addons-git fcitx5-git fcitx5-qt-git fcitx5-rime-git kcm-fcitx5-git'
 [2017-12-08 09:49] [PACMAN] Running 'pacman -R kcm-fcitx fcitx'
+[2017-12-08 09:49] [PACMAN] Running 'pacman -R -s -c kcm-fcitx fcitx'
+[2017-12-08 09:50] [ALPM] transaction started
+[2017-12-08 09:50] [ALPM] removed fcitx-sunpinyin (0.4.2-1)
+[2017-12-08 09:50] [ALPM] removed sunpinyin-data (1:2.0.3.20140820-1)
+[2017-12-08 09:50] [ALPM] removed sunpinyin (3.0.0rc1-1)
+[2017-12-08 09:50] [ALPM] removed fcitx-qt4 (4.2.9.5-1)
+[2017-12-08 09:50] [ALPM] removed fcitx-libpinyin (0.5.3-1)
+[2017-12-08 09:50] [ALPM] removed libpinyin (2.1.0-1)
+[2017-12-08 09:50] [ALPM] removed kyotocabinet (1.2.76-5)
+[2017-12-08 09:50] [ALPM] removed fcitx-gtk3 (4.2.9.5-1)
+[2017-12-08 09:50] [ALPM] removed fcitx-gtk2 (4.2.9.5-1)
+[2017-12-08 09:50] [ALPM] removed fcitx-cloudpinyin (0.3.6-1)
+[2017-12-08 09:50] [ALPM] removed kcm-fcitx (0.5.5-1)
+[2017-12-08 09:50] [ALPM] removed fcitx-qt5 (1.2.1-1)
+[2017-12-08 09:50] [ALPM] removed fcitx (4.2.9.5-1)
+[2017-12-08 09:50] [ALPM] transaction completed
+[2017-12-08 09:50] [ALPM] running 'gtk-query-immodules-2.0.hook'...
+[2017-12-08 09:50] [ALPM] running 'gtk-query-immodules-3.0.hook'...
+[2017-12-08 09:50] [ALPM] running 'gtk-update-icon-cache.hook'...
+[2017-12-08 09:50] [ALPM] running 'systemd-update.hook'...
+[2017-12-08 09:50] [ALPM] running 'update-desktop-database.hook'...
+[2017-12-08 09:50] [ALPM] running 'update-mime-database.hook'...
