@@ -2576,3 +2576,10 @@
 [2017-12-05 14:26] [PACMAN] starting full system upgrade
 [2017-12-05 14:28] [PACMAN] Running 'pacman -S -y -u'
 [2017-12-05 14:28] [PACMAN] synchronizing package lists
+[2017-12-08 22:39] [PACMAN] Running 'pacman -S zsh-syntax-highlighting'
+[2017-12-08 22:40] [ALPM] transaction started
+[2017-12-08 22:40] [ALPM] installed zsh-syntax-highlighting (0.6.0-1)
+[2017-12-08 22:40] [ALPM-SCRIPTLET] To activate zsh-syntax-highlighting, add the following line at the end of ~/.zshrc:
+[2017-12-08 22:40] [ALPM-SCRIPTLET]     source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+[2017-12-08 22:40] [ALPM] transaction completed
+[2017-12-08 22:40] [ALPM] running 'systemd-update.hook'...
