@@ -2585,3 +2585,77 @@
 [2017-12-08 22:40] [ALPM] running 'systemd-update.hook'...
 [2017-12-08 22:41] [PACMAN] Running 'pacman -S -y -y'
 [2017-12-08 22:41] [PACMAN] synchronizing package lists
+[2017-12-08 22:42] [PACMAN] Running 'pacman -S -y -u'
+[2017-12-08 22:42] [PACMAN] synchronizing package lists
+[2017-12-08 22:42] [PACMAN] starting full system upgrade
+[2017-12-08 22:51] [ALPM] transaction started
+[2017-12-08 22:52] [ALPM] upgraded glibc (2.26-6 -> 2.26-8)
+[2017-12-08 22:52] [ALPM-SCRIPTLET] Generating locales...
+[2017-12-08 22:52] [ALPM-SCRIPTLET]   en_US.UTF-8... done
+[2017-12-08 22:52] [ALPM-SCRIPTLET]   zh_CN.UTF-8... done
+[2017-12-08 22:52] [ALPM-SCRIPTLET] Generation complete.
+[2017-12-08 22:52] [ALPM] upgraded gcc-libs (7.2.0-3 -> 7.2.1-2)
+[2017-12-08 22:52] [ALPM] upgraded re2 (20170801-1 -> 20171201-1)
+[2017-12-08 22:52] [ALPM] upgraded harfbuzz (1.7.1-1 -> 1.7.2-1)
+[2017-12-08 22:52] [ALPM] upgraded libtool (2.4.6+40+g6ca5e224-1 -> 2.4.6+40+g6ca5e224-2)
+[2017-12-08 22:52] [ALPM] upgraded chromium (62.0.3202.94-2 -> 63.0.3239.84-1)
+[2017-12-08 22:52] [ALPM] upgraded firefox-nightly (59.0a1.20171205.00-2 -> 59.0a1.20171208.00-2)
+[2017-12-08 22:52] [ALPM] upgraded firefox-nightly-i18n-zh-cn (59.0a1_20171205.00-1 -> 59.0a1_20171208.00-1)
+[2017-12-08 22:52] [ALPM] upgraded gcc (7.2.0-3 -> 7.2.1-2)
+[2017-12-08 22:52] [ALPM] upgraded grub (2:2.02-3 -> 2:2.02-4)
+[2017-12-08 22:52] [ALPM] upgraded guile (2.2.2-1 -> 2.2.3-1)
+[2017-12-08 22:52] [ALPM] upgraded harfbuzz-icu (1.7.1-1 -> 1.7.2-1)
+[2017-12-08 22:52] [ALPM] upgraded kuiserver (5.11.4-1 -> 5.11.4-2)
+[2017-12-08 22:52] [ALPM] upgraded libnghttp2 (1.27.0-1 -> 1.28.0-1)
+[2017-12-08 22:52] [ALPM] upgraded libqalculate (2.1.0-2 -> 2.2.0-1)
+[2017-12-08 22:52] [ALPM] upgraded libraw (0.18.5-1 -> 0.18.6-1)
+[2017-12-08 22:52] [ALPM] upgraded linux-firmware (20171123.90436ce-1 -> 20171206.fdee922-1)
+[2017-12-08 22:52] [ALPM] upgraded linux (4.14.3-1 -> 4.14.4-1)
+[2017-12-08 22:52] [ALPM] upgraded noto-fonts-emoji (20170825-2 -> 20171030-1)
+[2017-12-08 22:52] [ALPM] upgraded oh-my-zsh-git (4372.e273cf004-1 -> 4375.a7fb55cf1-1)
+[2017-12-08 22:52] [ALPM] upgraded plasma-workspace (5.11.4-1 -> 5.11.4-2)
+[2017-12-08 22:52] [ALPM] upgraded python-setuptools (1:38.2.3-1 -> 1:38.2.4-1)
+[2017-12-08 22:52] [ALPM] upgraded python2-setuptools (1:38.2.3-1 -> 1:38.2.4-1)
+[2017-12-08 22:52] [ALPM] upgraded sddm (0.16.0-3 -> 0.17.0-2)
+[2017-12-08 22:52] [ALPM] installed lib32-glibc (2.26-8)
+[2017-12-08 22:52] [ALPM] upgraded valgrind (3.13.0-3 -> 3.13.0-4)
+[2017-12-08 22:52] [ALPM] transaction completed
+[2017-12-08 22:52] [ALPM] running '60-linux.hook'...
+[2017-12-08 22:52] [ALPM] running '90-linux.hook'...
+[2017-12-08 22:52] [ALPM-SCRIPTLET] ==> Building image from preset: /etc/mkinitcpio.d/linux.preset: 'default'
+[2017-12-08 22:52] [ALPM-SCRIPTLET]   -> -k /boot/vmlinuz-linux -c /etc/mkinitcpio.conf -g /boot/initramfs-linux.img
+[2017-12-08 22:52] [ALPM-SCRIPTLET] ==> Starting build: 4.14.4-1-ARCH
+[2017-12-08 22:52] [ALPM-SCRIPTLET]   -> Running build hook: [base]
+[2017-12-08 22:52] [ALPM-SCRIPTLET]   -> Running build hook: [udev]
+[2017-12-08 22:52] [ALPM-SCRIPTLET]   -> Running build hook: [autodetect]
+[2017-12-08 22:52] [ALPM-SCRIPTLET]   -> Running build hook: [modconf]
+[2017-12-08 22:52] [ALPM-SCRIPTLET]   -> Running build hook: [block]
+[2017-12-08 22:52] [ALPM-SCRIPTLET]   -> Running build hook: [filesystems]
+[2017-12-08 22:52] [ALPM-SCRIPTLET]   -> Running build hook: [keyboard]
+[2017-12-08 22:52] [ALPM-SCRIPTLET]   -> Running build hook: [fsck]
+[2017-12-08 22:52] [ALPM-SCRIPTLET] ==> Generating module dependencies
+[2017-12-08 22:52] [ALPM-SCRIPTLET] ==> Creating gzip-compressed initcpio image: /boot/initramfs-linux.img
+[2017-12-08 22:52] [ALPM-SCRIPTLET] ==> Image generation successful
+[2017-12-08 22:52] [ALPM-SCRIPTLET] ==> Building image from preset: /etc/mkinitcpio.d/linux.preset: 'fallback'
+[2017-12-08 22:52] [ALPM-SCRIPTLET]   -> -k /boot/vmlinuz-linux -c /etc/mkinitcpio.conf -g /boot/initramfs-linux-fallback.img -S autodetect
+[2017-12-08 22:52] [ALPM-SCRIPTLET] ==> Starting build: 4.14.4-1-ARCH
+[2017-12-08 22:52] [ALPM-SCRIPTLET]   -> Running build hook: [base]
+[2017-12-08 22:52] [ALPM-SCRIPTLET]   -> Running build hook: [udev]
+[2017-12-08 22:52] [ALPM-SCRIPTLET]   -> Running build hook: [modconf]
+[2017-12-08 22:52] [ALPM-SCRIPTLET]   -> Running build hook: [block]
+[2017-12-08 22:52] [ALPM-SCRIPTLET] ==> WARNING: Possibly missing firmware for module: wd719x
+[2017-12-08 22:52] [ALPM-SCRIPTLET] ==> WARNING: Possibly missing firmware for module: aic94xx
+[2017-12-08 22:52] [ALPM-SCRIPTLET]   -> Running build hook: [filesystems]
+[2017-12-08 22:52] [ALPM-SCRIPTLET]   -> Running build hook: [keyboard]
+[2017-12-08 22:53] [ALPM-SCRIPTLET]   -> Running build hook: [fsck]
+[2017-12-08 22:53] [ALPM-SCRIPTLET] ==> Generating module dependencies
+[2017-12-08 22:53] [ALPM-SCRIPTLET] ==> Creating gzip-compressed initcpio image: /boot/initramfs-linux-fallback.img
+[2017-12-08 22:53] [ALPM-SCRIPTLET] ==> Image generation successful
+[2017-12-08 22:53] [ALPM] running 'fontconfig.hook'...
+[2017-12-08 22:53] [ALPM] running 'gtk-update-icon-cache.hook'...
+[2017-12-08 22:53] [ALPM] running 'systemd-sysusers.hook'...
+[2017-12-08 22:53] [ALPM] running 'systemd-tmpfiles.hook'...
+[2017-12-08 22:53] [ALPM] running 'systemd-update.hook'...
+[2017-12-08 22:53] [ALPM] running 'texinfo-install.hook'...
+[2017-12-08 22:53] [ALPM] running 'update-desktop-database.hook'...
+[2017-12-08 22:53] [ALPM] running 'xorg-mkfontdir.hook'...
