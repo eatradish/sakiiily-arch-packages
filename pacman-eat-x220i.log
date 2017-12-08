@@ -2583,3 +2583,5 @@
 [2017-12-08 22:40] [ALPM-SCRIPTLET]     source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 [2017-12-08 22:40] [ALPM] transaction completed
 [2017-12-08 22:40] [ALPM] running 'systemd-update.hook'...
+[2017-12-08 22:41] [PACMAN] Running 'pacman -S -y -y'
+[2017-12-08 22:41] [PACMAN] synchronizing package lists
