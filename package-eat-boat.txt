@@ -239,6 +239,7 @@ kauth
 kbd
 kbookmarks
 kbproto
+kcm-fcitx
 kcmutils
 kcodecs
 kcompletion
