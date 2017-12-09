@@ -730,6 +730,7 @@ linux-api-headers
 linux-firmware
 linux-headers
 linux-lts
+linux-lts-headers
 llvm-libs
 lm_sensors
 lmdb

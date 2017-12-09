@@ -4263,3 +4263,11 @@
 [2017-12-09 21:32] [ALPM-SCRIPTLET] ==> No kernel 4.9.67-1-lts headers. You must install them to use DKMS!
 [2017-12-09 21:32] [ALPM-SCRIPTLET] ==> dkms install anbox-modules-binder/r709.7266fe2 -k 4.14.4-1-ARCH
 [2017-12-09 21:32] [ALPM] running 'systemd-update.hook'...
+[2017-12-09 21:37] [PACMAN] Running 'pacman -S linux-lts-headers'
+[2017-12-09 21:37] [ALPM] transaction started
+[2017-12-09 21:37] [ALPM] installed linux-lts-headers (4.9.67-1)
+[2017-12-09 21:37] [ALPM] transaction completed
+[2017-12-09 21:37] [ALPM] running '70-dkms-install.hook'...
+[2017-12-09 21:37] [ALPM-SCRIPTLET] ==> dkms install anbox-modules-ashmem/r709.7266fe2 -k 4.9.67-1-lts
+[2017-12-09 21:37] [ALPM-SCRIPTLET] ==> dkms install anbox-modules-binder/r709.7266fe2 -k 4.9.67-1-lts
+[2017-12-09 21:37] [ALPM] running 'systemd-update.hook'...
