@@ -107,6 +107,11 @@ expat
 faac
 faad2
 fakeroot
+fcitx
+fcitx-gtk2
+fcitx-gtk3
+fcitx-qt4
+fcitx-qt5
 fcitx5-chinese-addons-git
 fcitx5-git
 fcitx5-gtk-git
@@ -1139,4 +1144,5 @@ zlib
 zsh
 zsh-syntax-highlighting
 zvbi
-
+command-not-found
+python-pywapi
