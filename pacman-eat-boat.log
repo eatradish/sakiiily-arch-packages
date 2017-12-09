@@ -4220,3 +4220,20 @@
 [2017-12-09 21:21] [ALPM-SCRIPTLET] ==> No kernel 4.14.4-1-ARCH headers. You must install them to use DKMS!
 [2017-12-09 21:21] [ALPM] running 'systemd-update.hook'...
 [2017-12-09 21:21] [PACMAN] Running 'pacman -S dkms'
+[2017-12-09 21:28] [PACMAN] Running 'pacman -S -y -u archlinuxcn/anbox-modules-dkms-git'
+[2017-12-09 21:28] [PACMAN] synchronizing package lists
+[2017-12-09 21:28] [PACMAN] starting full system upgrade
+[2017-12-09 21:28] [ALPM] running '70-dkms-remove.hook'...
+[2017-12-09 21:28] [ALPM-SCRIPTLET] ==> No kernel 4.9.67-1-lts headers. You must install them to use DKMS!
+[2017-12-09 21:28] [ALPM-SCRIPTLET] ==> No kernel 4.14.4-1-ARCH headers. You must install them to use DKMS!
+[2017-12-09 21:28] [ALPM-SCRIPTLET] ==> No kernel 4.9.67-1-lts headers. You must install them to use DKMS!
+[2017-12-09 21:28] [ALPM-SCRIPTLET] ==> No kernel 4.14.4-1-ARCH headers. You must install them to use DKMS!
+[2017-12-09 21:28] [ALPM] transaction started
+[2017-12-09 21:28] [ALPM] reinstalled anbox-modules-dkms-git (1:r709.7266fe2-1)
+[2017-12-09 21:28] [ALPM] transaction completed
+[2017-12-09 21:28] [ALPM] running '70-dkms-install.hook'...
+[2017-12-09 21:28] [ALPM-SCRIPTLET] ==> No kernel 4.9.67-1-lts headers. You must install them to use DKMS!
+[2017-12-09 21:28] [ALPM-SCRIPTLET] ==> No kernel 4.14.4-1-ARCH headers. You must install them to use DKMS!
+[2017-12-09 21:28] [ALPM-SCRIPTLET] ==> No kernel 4.9.67-1-lts headers. You must install them to use DKMS!
+[2017-12-09 21:28] [ALPM-SCRIPTLET] ==> No kernel 4.14.4-1-ARCH headers. You must install them to use DKMS!
+[2017-12-09 21:28] [ALPM] running 'systemd-update.hook'...
