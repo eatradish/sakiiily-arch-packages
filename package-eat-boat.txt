@@ -728,6 +728,7 @@ licenses
 linux
 linux-api-headers
 linux-firmware
+linux-headers
 linux-lts
 llvm-libs
 lm_sensors
