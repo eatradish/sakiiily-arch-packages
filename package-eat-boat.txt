@@ -12,6 +12,7 @@ alsa-lib
 alsa-plugins
 anbox-git
 anbox-image
+anbox-modules-dkms-git
 appstream
 appstream-qt
 arch-install-scripts
@@ -87,6 +88,7 @@ dhcpcd
 dialog
 diffutils
 discover
+dkms
 dmraid
 dmxproto
 dnssec-anchors
