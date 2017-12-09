@@ -4193,3 +4193,16 @@
 [2017-12-09 21:05] [PACMAN] Running 'pacman -S -y -u'
 [2017-12-09 21:05] [PACMAN] synchronizing package lists
 [2017-12-09 21:06] [PACMAN] starting full system upgrade
+[2017-12-09 21:10] [PACMAN] Running 'pacman -S archlinuxcn/anbox-git archlinuxcn/anbox-image'
+[2017-12-09 21:20] [ALPM] transaction started
+[2017-12-09 21:20] [ALPM] installed process-cpp (3.0.1-1)
+[2017-12-09 21:20] [ALPM] installed dbus-cpp (5.0.0-1)
+[2017-12-09 21:20] [ALPM] installed libnih (1.0.3-2)
+[2017-12-09 21:20] [ALPM] installed cgmanager (0.41-2)
+[2017-12-09 21:20] [ALPM] installed lxc (1:2.1.1-1)
+[2017-12-09 21:20] [ALPM] installed anbox-image (1:3-1)
+[2017-12-09 21:20] [ALPM] installed anbox-git (1:r709.7266fe2-1)
+[2017-12-09 21:20] [ALPM] transaction completed
+[2017-12-09 21:20] [ALPM] running 'systemd-tmpfiles.hook'...
+[2017-12-09 21:20] [ALPM] running 'systemd-update.hook'...
+[2017-12-09 21:20] [ALPM] running 'update-desktop-database.hook'...

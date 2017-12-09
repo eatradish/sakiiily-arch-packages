@@ -10,6 +10,8 @@ adobe-source-han-serif-otc-fonts
 adwaita-icon-theme
 alsa-lib
 alsa-plugins
+anbox-git
+anbox-image
 appstream
 appstream-qt
 arch-install-scripts
@@ -56,6 +58,7 @@ cairo
 cantarell-fonts
 cdparanoia
 celt
+cgmanager
 chromaprint
 chromium
 cifs-utils
@@ -74,6 +77,7 @@ curl
 damageproto
 db
 dbus
+dbus-cpp
 dbus-glib
 dcadec
 dconf
@@ -595,6 +599,7 @@ libndp
 libnewt
 libnftnl
 libnghttp2
+libnih
 libnl
 libnm
 libnm-glib
@@ -730,6 +735,7 @@ lpsolve
 lua
 lua52
 lvm2
+lxc
 lz4
 lzo
 m4
@@ -858,6 +864,7 @@ powerline2
 ppp
 presentproto
 prison
+process-cpp
 procps-ng
 protobuf
 proxychains-ng
