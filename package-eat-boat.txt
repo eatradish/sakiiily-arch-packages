@@ -13,6 +13,7 @@ alsa-plugins
 anbox-git
 anbox-image
 anbox-modules-dkms-git
+android-tools
 appstream
 appstream-qt
 arch-install-scripts

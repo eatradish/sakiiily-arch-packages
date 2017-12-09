@@ -4271,3 +4271,8 @@
 [2017-12-09 21:37] [ALPM-SCRIPTLET] ==> dkms install anbox-modules-ashmem/r709.7266fe2 -k 4.9.67-1-lts
 [2017-12-09 21:37] [ALPM-SCRIPTLET] ==> dkms install anbox-modules-binder/r709.7266fe2 -k 4.9.67-1-lts
 [2017-12-09 21:37] [ALPM] running 'systemd-update.hook'...
+[2017-12-09 21:44] [PACMAN] Running 'pacman -S android-tools'
+[2017-12-09 21:44] [ALPM] transaction started
+[2017-12-09 21:44] [ALPM] installed android-tools (8.1.0_r1-1)
+[2017-12-09 21:44] [ALPM] transaction completed
+[2017-12-09 21:44] [ALPM] running 'systemd-update.hook'...
