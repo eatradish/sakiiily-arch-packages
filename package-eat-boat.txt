@@ -1139,5 +1139,4 @@ zlib
 zsh
 zsh-syntax-highlighting
 zvbi
-command-not-found
-python-pywapi
+
