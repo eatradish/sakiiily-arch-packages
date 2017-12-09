@@ -42,7 +42,6 @@ breeze
 breeze-gtk
 breeze-icons
 bridge-utils
-brise
 btrfs-progs
 bumblebee
 bzip2
@@ -107,11 +106,6 @@ expat
 faac
 faad2
 fakeroot
-fcitx5-chinese-addons-git
-fcitx5-git
-fcitx5-gtk-git
-fcitx5-qt-git
-fcitx5-rime-git
 ffmpeg
 ffmpeg2.8
 fftw
@@ -123,7 +117,6 @@ firefox-nightly-i18n-zh-cn
 fixesproto
 flac
 flex
-fmt
 font-bh-ttf
 fontconfig
 fonts-tlwg
@@ -162,8 +155,6 @@ gnome-themes-standard
 gnu-netcat
 gnupg
 gnutls
-google-glog
-gperftools
 gpgme
 gpm
 gptfdisk
@@ -240,7 +231,6 @@ kauth
 kbd
 kbookmarks
 kbproto
-kcm-fcitx5-git
 kcmutils
 kcodecs
 kcompletion
@@ -327,7 +317,6 @@ ldb
 ldc
 ldns
 less
-leveldb
 lib32-acl
 lib32-alsa-lib
 lib32-alsa-plugins
@@ -552,7 +541,6 @@ libid3tag
 libidn
 libidn2
 libiec61883
-libime-git
 libimobiledevice
 libindicator-gtk2
 libinput
@@ -619,7 +607,6 @@ libraw
 libraw1394
 libreoffice-fresh
 librevenge
-librime
 librsvg
 librtmp0
 libsamplerate
@@ -716,6 +703,7 @@ licenses
 linux
 linux-api-headers
 linux-firmware
+linux-lts
 llvm-libs
 lm_sensors
 lmdb
@@ -731,7 +719,6 @@ mailcap
 make
 man-db
 man-pages
-marisa
 mbedtls
 mdadm
 media-player-info
@@ -777,7 +764,6 @@ ocl-icd
 oh-my-zsh-git
 oniguruma
 openal
-opencc
 opencore-amr
 openexr
 openjpeg
@@ -928,6 +914,7 @@ re2
 readline
 recordproto
 redland
+refind-efi
 reiserfsprogs
 renderproto
 resourceproto
@@ -1046,7 +1033,6 @@ wxpython
 x265
 xapian-core
 xbitmaps
-xcb-imdkit-git
 xcb-proto
 xcb-util
 xcb-util-cursor
@@ -1128,7 +1114,6 @@ xterm
 xvidcore
 xz
 yajl
-yaml-cpp
 zenity
 zeromq
 zita-alsa-pcmi
