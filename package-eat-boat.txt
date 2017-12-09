@@ -1048,6 +1048,8 @@ vid.stab
 videoproto
 vim
 vim-runtime
+virtualbox
+virtualbox-host-dkms
 virtualgl
 visual-studio-code
 vlc
