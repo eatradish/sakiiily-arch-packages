@@ -831,6 +831,7 @@ zita-resampler
 zlib
 zsh
 zsh-syntax-highlighting
+zstd
 zvbi
 command-not-found
 lastpass-cli-git
