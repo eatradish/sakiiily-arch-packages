@@ -2794,3 +2794,11 @@
 [2017-12-11 00:35] [ALPM] reinstalled fcitx-cloudpinyin (0.3.6-1)
 [2017-12-11 00:35] [ALPM] transaction completed
 [2017-12-11 00:35] [ALPM] running 'systemd-update.hook'...
+[2017-12-11 00:37] [PACMAN] Running 'pacman -S fcitx-sunpinyin'
+[2017-12-11 00:37] [ALPM] transaction started
+[2017-12-11 00:37] [ALPM] installed sunpinyin (3.0.0rc1-1)
+[2017-12-11 00:37] [ALPM] installed sunpinyin-data (1:2.0.3.20140820-1)
+[2017-12-11 00:37] [ALPM] installed fcitx-sunpinyin (0.4.2-1)
+[2017-12-11 00:37] [ALPM] transaction completed
+[2017-12-11 00:37] [ALPM] running 'gtk-update-icon-cache.hook'...
+[2017-12-11 00:37] [ALPM] running 'systemd-update.hook'...

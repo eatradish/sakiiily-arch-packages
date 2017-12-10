@@ -102,6 +102,7 @@ fcitx-gtk2
 fcitx-gtk3
 fcitx-qt4
 fcitx-qt5
+fcitx-sunpinyin
 ffmpeg
 ffmpeg2.8
 file
@@ -697,6 +698,8 @@ speexdsp
 sqlite
 startup-notification
 sudo
+sunpinyin
+sunpinyin-data
 syntax-highlighting
 sysfsutils
 systemd
