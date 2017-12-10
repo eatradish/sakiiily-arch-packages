@@ -2779,3 +2779,8 @@
 [2017-12-11 00:29] [PACMAN] Running 'pacman -S -y -u'
 [2017-12-11 00:29] [PACMAN] synchronizing package lists
 [2017-12-11 00:29] [PACMAN] starting full system upgrade
+[2017-12-11 00:34] [PACMAN] Running 'pacman -S fcitx-cloudpinyin'
+[2017-12-11 00:34] [ALPM] transaction started
+[2017-12-11 00:34] [ALPM] reinstalled fcitx-cloudpinyin (0.3.6-1)
+[2017-12-11 00:34] [ALPM] transaction completed
+[2017-12-11 00:34] [ALPM] running 'systemd-update.hook'...
