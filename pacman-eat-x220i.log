@@ -2784,3 +2784,8 @@
 [2017-12-11 00:34] [ALPM] reinstalled fcitx-cloudpinyin (0.3.6-1)
 [2017-12-11 00:34] [ALPM] transaction completed
 [2017-12-11 00:34] [ALPM] running 'systemd-update.hook'...
+[2017-12-11 00:35] [PACMAN] Running 'pacman -S kcm-fcitx'
+[2017-12-11 00:35] [ALPM] transaction started
+[2017-12-11 00:35] [ALPM] installed kcm-fcitx (0.5.5-1)
+[2017-12-11 00:35] [ALPM] transaction completed
+[2017-12-11 00:35] [ALPM] running 'systemd-update.hook'...
