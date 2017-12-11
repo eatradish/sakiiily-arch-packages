@@ -264,7 +264,6 @@ knetattach
 knewstuff
 knotifications
 knotifyconfig
-konqueror
 konsole
 kpackage
 kparts
