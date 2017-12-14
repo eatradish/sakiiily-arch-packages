@@ -201,6 +201,7 @@ jdk
 jfsutils
 jq
 js
+json-c
 json-glib
 jsoncpp
 kaccounts-integration
