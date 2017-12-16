@@ -603,6 +603,7 @@ psmisc
 pulseaudio
 pulseaudio-gconf
 purpose
+pygmentize
 python
 python-appdirs
 python-beautifulsoup4
