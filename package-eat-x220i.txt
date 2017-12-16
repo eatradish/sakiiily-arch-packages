@@ -573,6 +573,7 @@ perl
 perl-error
 phonon-qt5
 phonon-qt5-gstreamer
+php
 pinentry
 pixman
 pkg-config

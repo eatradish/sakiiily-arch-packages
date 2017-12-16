@@ -3102,3 +3102,8 @@ filesystem: 2755  package: 755
 [2017-12-16 20:55] [ALPM] installed ccrypt (1.10-2)
 [2017-12-16 20:55] [ALPM] transaction completed
 [2017-12-16 20:55] [ALPM] running 'systemd-update.hook'...
+[2017-12-16 21:15] [PACMAN] Running 'pacman -S php'
+[2017-12-16 21:15] [ALPM] transaction started
+[2017-12-16 21:15] [ALPM] installed php (7.2.0-2)
+[2017-12-16 21:15] [ALPM] transaction completed
+[2017-12-16 21:15] [ALPM] running 'systemd-update.hook'...
