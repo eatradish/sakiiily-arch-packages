@@ -52,6 +52,7 @@ ca-certificates-utils
 cairo
 cairomm
 cantarell-fonts
+ccrypt
 cdparanoia
 chromium
 cifs-utils
