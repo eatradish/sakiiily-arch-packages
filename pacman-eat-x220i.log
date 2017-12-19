@@ -3107,3 +3107,6 @@ filesystem: 2755  package: 755
 [2017-12-16 21:15] [ALPM] installed php (7.2.0-2)
 [2017-12-16 21:15] [ALPM] transaction completed
 [2017-12-16 21:15] [ALPM] running 'systemd-update.hook'...
+[2017-12-19 21:32] [PACMAN] Running 'pacman -S -y -u'
+[2017-12-19 21:32] [PACMAN] synchronizing package lists
+[2017-12-19 21:32] [PACMAN] starting full system upgrade
