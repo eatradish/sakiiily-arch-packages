@@ -4317,3 +4317,30 @@
 [2017-12-10 00:45] [ALPM] running 'systemd-tmpfiles.hook'...
 [2017-12-10 00:45] [ALPM] running 'systemd-update.hook'...
 [2017-12-10 00:45] [ALPM] running 'update-desktop-database.hook'...
+[2017-12-10 02:43] [PACMAN] Running 'pacman -S refind'
+[2017-12-10 02:43] [PACMAN] Running 'pacman -Sw refind'
+[2017-12-10 02:43] [PACMAN] Running 'pacman -S refind-efi'
+[2017-12-10 02:43] [ALPM] transaction started
+[2017-12-10 02:43] [ALPM] reinstalled refind-efi (0.11.2-1)
+[2017-12-10 02:43] [ALPM-SCRIPTLET] 
+[2017-12-10 02:43] [ALPM-SCRIPTLET] rEFInd UEFI application has been installed at /usr/share/refind/refind_*.efi
+[2017-12-10 02:43] [ALPM-SCRIPTLET] 
+[2017-12-10 02:43] [ALPM-SCRIPTLET] Other UEFI applications have been installed at /usr/share/refind/tools_*/
+[2017-12-10 02:43] [ALPM-SCRIPTLET] 
+[2017-12-10 02:43] [ALPM-SCRIPTLET] UEFI drivers have been installed at /usr/share/refind/drivers_*/
+[2017-12-10 02:43] [ALPM-SCRIPTLET] 
+[2017-12-10 02:43] [ALPM-SCRIPTLET] Copy the efi application (according to your UEFI ARCH) 
+[2017-12-10 02:43] [ALPM-SCRIPTLET] and /usr/share/refind/refind.conf-sample to a sub-directory of <EFISYS>/EFI/
+[2017-12-10 02:43] [ALPM-SCRIPTLET] as refind.conf and add an entry to firmware boot menu using efibootmgr
+[2017-12-10 02:43] [ALPM-SCRIPTLET] or mactel-boot (for Macs)
+[2017-12-10 02:43] [ALPM-SCRIPTLET] 
+[2017-12-10 02:43] [ALPM-SCRIPTLET] rEFInd Icons have been installed at /usr/share/refind/icons/
+[2017-12-10 02:43] [ALPM-SCRIPTLET] rEFInd Fonts have been installed at /usr/share/refind/fonts/
+[2017-12-10 02:43] [ALPM-SCRIPTLET] 
+[2017-12-10 02:43] [ALPM-SCRIPTLET] HTML Documentation is available at /usr/share/refind/docs/html/
+[2017-12-10 02:43] [ALPM-SCRIPTLET] 
+[2017-12-10 02:43] [ALPM-SCRIPTLET] More info: https://wiki.archlinux.org/index.php/rEFInd 
+[2017-12-10 02:43] [ALPM-SCRIPTLET] 
+[2017-12-10 02:43] [ALPM] transaction completed
+[2017-12-10 02:43] [ALPM] running 'systemd-update.hook'...
+[2017-12-20 19:18] [PACMAN] Running 'pacman -S pepper-flash'
