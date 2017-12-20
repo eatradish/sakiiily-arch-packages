@@ -835,6 +835,7 @@ pciutils
 pcmciautils
 pcre
 pcre2
+pepper-flash
 perl
 perl-encode-locale
 perl-error
