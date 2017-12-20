@@ -63,6 +63,7 @@ cairomm
 cantarell-fonts
 cdparanoia
 celt
+cfitsio
 cgmanager
 chromaprint
 chromium
@@ -248,6 +249,7 @@ jq
 jre8-openjdk
 jre8-openjdk-headless
 js
+json-c
 json-glib
 jsoncpp
 kaccounts-integration
@@ -591,6 +593,7 @@ liblouis
 liblphobos
 liblqr
 libmad
+libmagick
 libmatroska
 libmbim
 libmikmod
@@ -1167,6 +1170,7 @@ zita-resampler
 zlib
 zsh
 zsh-syntax-highlighting
+zstd
 zvbi
 command-not-found
 python-pywapi
