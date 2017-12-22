@@ -54,6 +54,7 @@ cairomm
 cantarell-fonts
 ccrypt
 cdparanoia
+cfitsio
 chromium
 cifs-utils
 cmake
@@ -403,7 +404,6 @@ libpulse
 libpwquality
 libqalculate
 libqmi
-libqtelegram-ae
 libraw
 libraw1394
 librsvg
@@ -712,8 +712,7 @@ taglib
 talloc
 tar
 tdb
-telegram-desktop-systemqt
-telegramqml
+telegram-desktop
 tevent
 texinfo
 thin-provisioning-tools
@@ -842,4 +841,6 @@ zstd
 zvbi
 command-not-found
 lastpass-cli-git
+libqtelegram-ae
 libxfont
+telegramqml

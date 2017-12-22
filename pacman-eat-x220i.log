@@ -3110,3 +3110,129 @@ filesystem: 2755  package: 755
 [2017-12-19 21:32] [PACMAN] Running 'pacman -S -y -u'
 [2017-12-19 21:32] [PACMAN] synchronizing package lists
 [2017-12-19 21:32] [PACMAN] starting full system upgrade
+[2017-12-23 00:42] [PACMAN] Running 'pacman -S -y -u'
+[2017-12-23 00:42] [PACMAN] synchronizing package lists
+[2017-12-23 00:42] [PACMAN] starting full system upgrade
+[2017-12-23 00:50] [ALPM] transaction started
+[2017-12-23 00:50] [ALPM] upgraded archlinux-appstream-data (20171017-1 -> 20171217-1)
+[2017-12-23 00:50] [ALPM] upgraded libgcrypt (1.8.1-1 -> 1.8.2-1)
+[2017-12-23 00:50] [ALPM] upgraded icu (60.1-1 -> 60.2-1)
+[2017-12-23 00:50] [ALPM] upgraded libjpeg-turbo (1.5.2-2 -> 1.5.3-1)
+[2017-12-23 00:50] [ALPM] upgraded libnftnl (1.0.7-1 -> 1.0.8-1)
+[2017-12-23 00:50] [ALPM] upgraded libsystemd (235.38-4 -> 236.0-2)
+[2017-12-23 00:50] [ALPM] upgraded iptables (1.6.1-1 -> 1.6.1-2)
+[2017-12-23 00:51] [ALPM] upgraded device-mapper (2.02.176-1 -> 2.02.177-1)
+[2017-12-23 00:51] [ALPM] upgraded krb5 (1.15.2-1 -> 1.16-1)
+[2017-12-23 00:51] [ALPM] upgraded shadow (4.5-3 -> 4.5-4)
+[2017-12-23 00:51] [ALPM] upgraded systemd (235.38-4 -> 236.0-2)
+[2017-12-23 00:51] [ALPM] upgraded libinput (1.9.3-1 -> 1.9.4-1)
+[2017-12-23 00:51] [ALPM] upgraded libxkbcommon (0.7.2-1 -> 0.8.0-1)
+[2017-12-23 00:51] [ALPM] upgraded libxkbcommon-x11 (0.7.2-1 -> 0.8.0-1)
+[2017-12-23 00:51] [ALPM] upgraded harfbuzz (1.7.2-1 -> 1.7.4-1)
+[2017-12-23 00:51] [ALPM] upgraded llvm-libs (5.0.0-1 -> 5.0.1-1)
+[2017-12-23 00:51] [ALPM] upgraded mesa (17.2.6-1 -> 17.3.0-2)
+[2017-12-23 00:51] [ALPM] upgraded cairo (1.15.8-2 -> 1.15.10-1)
+[2017-12-23 00:51] [ALPM] upgraded btrfs-progs (4.14-1 -> 4.14-2)
+[2017-12-23 00:51] [ALPM] upgraded lvm2 (2.02.176-1 -> 2.02.177-1)
+[2017-12-23 00:51] [ALPM] upgraded x265 (2.5-1 -> 2.6-1)
+[2017-12-23 00:51] [ALPM] upgraded lcms2 (2.8-2 -> 2.9-1)
+[2017-12-23 00:51] [ALPM] upgraded ffmpeg (1:3.4-4 -> 1:3.4.1-1)
+[2017-12-23 00:51] [ALPM] upgraded libpsl (0.18.0-2 -> 0.19.1-1)
+[2017-12-23 00:51] [ALPM] upgraded baloo-widgets (17.08.3-1 -> 17.12.0-1)
+[2017-12-23 00:51] [ALPM] upgraded colord (1.4.1-1 -> 1.4.1+6+gf08c25d-1)
+[2017-12-23 00:51] [ALPM] upgraded tar (1.29-2 -> 1.30-1)
+[2017-12-23 00:51] [ALPM] upgraded chromium (63.0.3239.108-1 -> 63.0.3239.108-2)
+[2017-12-23 00:51] [ALPM] upgraded dialog (1:1.3_20170509-1 -> 1:1.3_20171209-1)
+[2017-12-23 00:51] [ALPM] upgraded kio-extras (17.08.3-1 -> 17.12.0-1)
+[2017-12-23 00:51] [ALPM] upgraded dolphin (17.08.3-1 -> 17.12.0-1)
+[2017-12-23 00:51] [ALPM] upgraded ffmpeg2.8 (2.8.13-2 -> 2.8.13-3)
+[2017-12-23 00:51] [ALPM] upgraded firefox-nightly (59.0a1.20171215.23-2 -> 59.0a1.20171222.00-2)
+[2017-12-23 00:51] [ALPM] upgraded firefox-nightly-i18n-zh-cn (59.0a1_20171215.23-1 -> 59.0a1_20171222.00-1)
+[2017-12-23 00:51] [ALPM] upgraded gtkd (3.7.2-1 -> 3.7.3-1)
+[2017-12-23 00:51] [ALPM] upgraded libkipi (17.08.3-1 -> 17.12.0-1)
+[2017-12-23 00:51] [ALPM] upgraded libkdcraw (17.08.3-1 -> 17.12.0-1)
+[2017-12-23 00:51] [ALPM] installed cfitsio (3.420-1)
+[2017-12-23 00:51] [ALPM] upgraded gwenview (17.08.3-1 -> 17.12.0-1)
+[2017-12-23 00:51] [ALPM] upgraded harfbuzz-icu (1.7.2-1 -> 1.7.4-1)
+[2017-12-23 00:51] [ALPM] upgraded iw (4.9-1 -> 4.9-2)
+[2017-12-23 00:51] [ALPM] upgraded signon-kwallet-extension (17.08.3-1 -> 17.12.0-1)
+[2017-12-23 00:51] [ALPM] upgraded kaccounts-integration (17.08.3-1 -> 17.12.0-1)
+[2017-12-23 00:51] [ALPM] upgraded kate (17.08.3-1 -> 17.12.0-1)
+[2017-12-23 00:51] [ALPM] upgraded kdialog (17.08.3-1 -> 17.12.0-1)
+[2017-12-23 00:51] [ALPM] upgraded keditbookmarks (17.08.3-1 -> 17.12.0-1)
+[2017-12-23 00:51] [ALPM] upgraded kfind (17.08.3-1 -> 17.12.0-1)
+[2017-12-23 00:51] [ALPM] upgraded khelpcenter (17.08.3-1 -> 17.12.0-1)
+[2017-12-23 00:51] [ALPM] upgraded kholidays (17.08.3-1 -> 17.12.0-1)
+[2017-12-23 00:51] [ALPM] upgraded knetattach (5.11.4-1 -> 5.11.4-2)
+[2017-12-23 00:51] [ALPM] upgraded konsole (17.08.3-1 -> 17.12.0-1)
+[2017-12-23 00:51] [ALPM] upgraded kwrite (17.08.3-1 -> 17.12.0-1)
+[2017-12-23 00:51] [ALPM] upgraded libsodium (1.0.15-1 -> 1.0.16-1)
+[2017-12-23 00:51] [ALPM] upgraded linux (4.14.5-1 -> 4.14.7-1)
+[2017-12-23 00:51] [ALPM] upgraded netease-musicbox-git (r534.d1f5949-1 -> r536.e67a787-1)
+[2017-12-23 00:51] [ALPM-SCRIPTLET] The binary is called: 'musicbox'
+[2017-12-23 00:51] [ALPM] upgraded plasma-desktop (5.11.4-1 -> 5.11.4-2)
+[2017-12-23 00:51] [ALPM] upgraded procps-ng (3.3.12-1 -> 3.3.12-2)
+[2017-12-23 00:51] [ALPM] upgraded python-jedi (0.11.0-2 -> 0.11.1-1)
+[2017-12-23 00:51] [ALPM] upgraded sddm (0.17.0-2 -> 0.17.0-3)
+[2017-12-23 00:51] [ALPM] upgraded spectacle (17.08.3-1 -> 17.12.0-1)
+[2017-12-23 00:51] [ALPM] upgraded systemd-sysvcompat (235.38-4 -> 236.0-2)
+[2017-12-23 00:51] [ALPM] upgraded tilix (1.7.1-2 -> 1.7.3-1)
+[2017-12-23 00:51] [ALPM] upgraded vim-runtime (8.0.1389-1 -> 8.0.1415-1)
+[2017-12-23 00:51] [ALPM] upgraded vim (8.0.1389-1 -> 8.0.1415-1)
+[2017-12-23 00:51] [ALPM] upgraded vlc (2.2.7-1 -> 2.2.8-1)
+[2017-12-23 00:51] [ALPM] upgraded weechat (2.0-1 -> 2.0.1-1)
+[2017-12-23 00:51] [ALPM] upgraded whois (5.2.18-1 -> 5.2.19-1)
+[2017-12-23 00:51] [ALPM] transaction completed
+[2017-12-23 00:51] [ALPM] running '60-linux.hook'...
+[2017-12-23 00:51] [ALPM] running '90-linux.hook'...
+[2017-12-23 00:51] [ALPM-SCRIPTLET] ==> Building image from preset: /etc/mkinitcpio.d/linux.preset: 'default'
+[2017-12-23 00:51] [ALPM-SCRIPTLET]   -> -k /boot/vmlinuz-linux -c /etc/mkinitcpio.conf -g /boot/initramfs-linux.img
+[2017-12-23 00:51] [ALPM-SCRIPTLET] ==> Starting build: 4.14.7-1-ARCH
+[2017-12-23 00:51] [ALPM-SCRIPTLET]   -> Running build hook: [base]
+[2017-12-23 00:51] [ALPM-SCRIPTLET]   -> Running build hook: [udev]
+[2017-12-23 00:51] [ALPM-SCRIPTLET]   -> Running build hook: [autodetect]
+[2017-12-23 00:51] [ALPM-SCRIPTLET]   -> Running build hook: [modconf]
+[2017-12-23 00:51] [ALPM-SCRIPTLET]   -> Running build hook: [block]
+[2017-12-23 00:51] [ALPM-SCRIPTLET]   -> Running build hook: [filesystems]
+[2017-12-23 00:51] [ALPM-SCRIPTLET]   -> Running build hook: [keyboard]
+[2017-12-23 00:51] [ALPM-SCRIPTLET]   -> Running build hook: [fsck]
+[2017-12-23 00:51] [ALPM-SCRIPTLET] ==> Generating module dependencies
+[2017-12-23 00:51] [ALPM-SCRIPTLET] ==> Creating gzip-compressed initcpio image: /boot/initramfs-linux.img
+[2017-12-23 00:51] [ALPM-SCRIPTLET] ==> Image generation successful
+[2017-12-23 00:51] [ALPM-SCRIPTLET] ==> Building image from preset: /etc/mkinitcpio.d/linux.preset: 'fallback'
+[2017-12-23 00:51] [ALPM-SCRIPTLET]   -> -k /boot/vmlinuz-linux -c /etc/mkinitcpio.conf -g /boot/initramfs-linux-fallback.img -S autodetect
+[2017-12-23 00:51] [ALPM-SCRIPTLET] ==> Starting build: 4.14.7-1-ARCH
+[2017-12-23 00:51] [ALPM-SCRIPTLET]   -> Running build hook: [base]
+[2017-12-23 00:51] [ALPM-SCRIPTLET]   -> Running build hook: [udev]
+[2017-12-23 00:51] [ALPM-SCRIPTLET]   -> Running build hook: [modconf]
+[2017-12-23 00:51] [ALPM-SCRIPTLET]   -> Running build hook: [block]
+[2017-12-23 00:51] [ALPM-SCRIPTLET] ==> WARNING: Possibly missing firmware for module: wd719x
+[2017-12-23 00:51] [ALPM-SCRIPTLET] ==> WARNING: Possibly missing firmware for module: aic94xx
+[2017-12-23 00:51] [ALPM-SCRIPTLET]   -> Running build hook: [filesystems]
+[2017-12-23 00:51] [ALPM-SCRIPTLET]   -> Running build hook: [keyboard]
+[2017-12-23 00:51] [ALPM-SCRIPTLET]   -> Running build hook: [fsck]
+[2017-12-23 00:51] [ALPM-SCRIPTLET] ==> Generating module dependencies
+[2017-12-23 00:51] [ALPM-SCRIPTLET] ==> Creating gzip-compressed initcpio image: /boot/initramfs-linux-fallback.img
+[2017-12-23 00:52] [ALPM-SCRIPTLET] ==> Image generation successful
+[2017-12-23 00:52] [ALPM] running 'glib-compile-schemas.hook'...
+[2017-12-23 00:52] [ALPM] running 'gtk-update-icon-cache.hook'...
+[2017-12-23 00:52] [ALPM] running 'systemd-hwdb.hook'...
+[2017-12-23 00:52] [ALPM] running 'systemd-sysusers.hook'...
+[2017-12-23 00:52] [ALPM] running 'systemd-tmpfiles.hook'...
+[2017-12-23 00:52] [ALPM] running 'systemd-update.hook'...
+[2017-12-23 00:52] [ALPM] running 'texinfo-install.hook'...
+[2017-12-23 00:52] [ALPM] running 'update-appstream-cache.hook'...
+[2017-12-23 00:52] [ALPM-SCRIPTLET] AppStream cache update completed successfully.
+[2017-12-23 00:52] [ALPM] running 'update-desktop-database.hook'...
+[2017-12-23 00:52] [ALPM] running 'update-mime-database.hook'...
+[2017-12-23 00:52] [ALPM] running 'update-vlc-plugin-cache.hook'...
+[2017-12-23 00:53] [PACMAN] Running 'pacman -S telegram-desktop'
+[2017-12-23 00:54] [ALPM] transaction started
+[2017-12-23 00:54] [ALPM] removed telegram-desktop-systemqt (1.2.0-2)
+[2017-12-23 00:54] [ALPM] installed telegram-desktop (1.2.1-2)
+[2017-12-23 00:54] [ALPM-SCRIPTLET] Telegram will crash if you only have libappindicator-gtk2 installed.
+[2017-12-23 00:54] [ALPM-SCRIPTLET] Either remove libappindicator-gtk2, or install libappindicator-gtk3 to avoid the crash.
+[2017-12-23 00:54] [ALPM] transaction completed
+[2017-12-23 00:54] [ALPM] running 'gtk-update-icon-cache.hook'...
+[2017-12-23 00:54] [ALPM] running 'systemd-update.hook'...
+[2017-12-23 00:54] [ALPM] running 'update-desktop-database.hook'...
