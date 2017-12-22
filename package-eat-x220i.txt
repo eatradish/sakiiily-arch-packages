@@ -539,6 +539,7 @@ npth
 nspr
 nss
 ntfs-3g
+obs-studio
 oh-my-zsh-git
 oniguruma
 openal
