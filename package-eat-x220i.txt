@@ -10,6 +10,7 @@ adobe-source-han-sans-tw-fonts
 adobe-source-han-serif-tw-fonts
 adwaita-icon-theme
 alsa-lib
+android-tools
 appstream
 appstream-qt
 arch-install-scripts
