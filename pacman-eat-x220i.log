@@ -3243,3 +3243,57 @@ filesystem: 2755  package: 755
 [2017-12-23 01:09] [ALPM] running 'gtk-update-icon-cache.hook'...
 [2017-12-23 01:09] [ALPM] running 'systemd-update.hook'...
 [2017-12-23 01:09] [ALPM] running 'update-desktop-database.hook'...
+[2017-12-25 03:02] [PACMAN] Running 'pacman -S -y -u'
+[2017-12-25 03:02] [PACMAN] synchronizing package lists
+[2017-12-25 03:02] [PACMAN] starting full system upgrade
+[2017-12-25 03:10] [ALPM] transaction started
+[2017-12-25 03:10] [ALPM] removed visual-studio-code (1.19.0-3)
+[2017-12-25 03:10] [ALPM] upgraded libdrm (2.4.88-1 -> 2.4.89-1)
+[2017-12-25 03:10] [ALPM] upgraded firefox-nightly (59.0a1.20171222.00-2 -> 59.0a1.20171224.14-2)
+[2017-12-25 03:10] [ALPM] upgraded firefox-nightly-i18n-zh-cn (59.0a1_20171222.00-1 -> 59.0a1_20171224.14-1)
+[2017-12-25 03:10] [ALPM] upgraded gnupg (2.2.3-1 -> 2.2.4-1)
+[2017-12-25 03:11] [ALPM] upgraded linux (4.14.7-1 -> 4.14.8-1)
+[2017-12-25 03:11] [ALPM] upgraded netease-musicbox-git (r536.e67a787-1 -> r541.623cb2d-1)
+[2017-12-25 03:11] [ALPM-SCRIPTLET] The binary is called: 'musicbox'
+[2017-12-25 03:11] [ALPM] upgraded qca-qt5 (2.1.3-5 -> 2.1.3-6)
+[2017-12-25 03:11] [ALPM] upgraded sddm (0.17.0-3 -> 0.17.0-4)
+[2017-12-25 03:11] [ALPM] upgraded systemsettings (5.11.4-1 -> 5.11.4-2)
+[2017-12-25 03:11] [ALPM] installed visual-studio-code-bin (1.19.1-1)
+[2017-12-25 03:11] [ALPM] transaction completed
+[2017-12-25 03:11] [ALPM] running '60-linux.hook'...
+[2017-12-25 03:11] [ALPM] running '90-linux.hook'...
+[2017-12-25 03:11] [ALPM-SCRIPTLET] ==> Building image from preset: /etc/mkinitcpio.d/linux.preset: 'default'
+[2017-12-25 03:11] [ALPM-SCRIPTLET]   -> -k /boot/vmlinuz-linux -c /etc/mkinitcpio.conf -g /boot/initramfs-linux.img
+[2017-12-25 03:11] [ALPM-SCRIPTLET] ==> Starting build: 4.14.8-1-ARCH
+[2017-12-25 03:11] [ALPM-SCRIPTLET]   -> Running build hook: [base]
+[2017-12-25 03:11] [ALPM-SCRIPTLET]   -> Running build hook: [udev]
+[2017-12-25 03:11] [ALPM-SCRIPTLET]   -> Running build hook: [autodetect]
+[2017-12-25 03:11] [ALPM-SCRIPTLET]   -> Running build hook: [modconf]
+[2017-12-25 03:11] [ALPM-SCRIPTLET]   -> Running build hook: [block]
+[2017-12-25 03:11] [ALPM-SCRIPTLET]   -> Running build hook: [filesystems]
+[2017-12-25 03:11] [ALPM-SCRIPTLET]   -> Running build hook: [keyboard]
+[2017-12-25 03:11] [ALPM-SCRIPTLET]   -> Running build hook: [fsck]
+[2017-12-25 03:11] [ALPM-SCRIPTLET] ==> Generating module dependencies
+[2017-12-25 03:11] [ALPM-SCRIPTLET] ==> Creating gzip-compressed initcpio image: /boot/initramfs-linux.img
+[2017-12-25 03:11] [ALPM-SCRIPTLET] ==> Image generation successful
+[2017-12-25 03:11] [ALPM-SCRIPTLET] ==> Building image from preset: /etc/mkinitcpio.d/linux.preset: 'fallback'
+[2017-12-25 03:11] [ALPM-SCRIPTLET]   -> -k /boot/vmlinuz-linux -c /etc/mkinitcpio.conf -g /boot/initramfs-linux-fallback.img -S autodetect
+[2017-12-25 03:11] [ALPM-SCRIPTLET] ==> Starting build: 4.14.8-1-ARCH
+[2017-12-25 03:11] [ALPM-SCRIPTLET]   -> Running build hook: [base]
+[2017-12-25 03:11] [ALPM-SCRIPTLET]   -> Running build hook: [udev]
+[2017-12-25 03:11] [ALPM-SCRIPTLET]   -> Running build hook: [modconf]
+[2017-12-25 03:11] [ALPM-SCRIPTLET]   -> Running build hook: [block]
+[2017-12-25 03:11] [ALPM-SCRIPTLET] ==> WARNING: Possibly missing firmware for module: wd719x
+[2017-12-25 03:11] [ALPM-SCRIPTLET] ==> WARNING: Possibly missing firmware for module: aic94xx
+[2017-12-25 03:11] [ALPM-SCRIPTLET]   -> Running build hook: [filesystems]
+[2017-12-25 03:11] [ALPM-SCRIPTLET]   -> Running build hook: [keyboard]
+[2017-12-25 03:11] [ALPM-SCRIPTLET]   -> Running build hook: [fsck]
+[2017-12-25 03:11] [ALPM-SCRIPTLET] ==> Generating module dependencies
+[2017-12-25 03:11] [ALPM-SCRIPTLET] ==> Creating gzip-compressed initcpio image: /boot/initramfs-linux-fallback.img
+[2017-12-25 03:11] [ALPM-SCRIPTLET] ==> Image generation successful
+[2017-12-25 03:11] [ALPM] running 'gtk-update-icon-cache.hook'...
+[2017-12-25 03:11] [ALPM] running 'systemd-sysusers.hook'...
+[2017-12-25 03:11] [ALPM] running 'systemd-tmpfiles.hook'...
+[2017-12-25 03:11] [ALPM] running 'systemd-update.hook'...
+[2017-12-25 03:11] [ALPM] running 'texinfo-install.hook'...
+[2017-12-25 03:11] [ALPM] running 'update-desktop-database.hook'...

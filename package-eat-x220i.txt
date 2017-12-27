@@ -738,7 +738,7 @@ vid.stab
 videoproto
 vim
 vim-runtime
-visual-studio-code
+visual-studio-code-bin
 vlc
 volume_key
 vte-common
