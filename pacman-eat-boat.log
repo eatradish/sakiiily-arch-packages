@@ -4705,3 +4705,6 @@
 [2017-12-20 19:48] [ALPM] installed pepper-flash (28.0.0.126-1)
 [2017-12-20 19:48] [ALPM] transaction completed
 [2017-12-20 19:48] [ALPM] running 'systemd-update.hook'...
+[2018-01-04 04:25] [PACMAN] Running 'pacman -S -y -u'
+[2018-01-04 04:25] [PACMAN] synchronizing package lists
+[2018-01-04 04:25] [PACMAN] starting full system upgrade

@@ -822,7 +822,6 @@ os-prober
 oxygen
 p11-kit
 p7zip
-pacaur
 pacman
 pacman-mirrorlist
 pam
@@ -1022,7 +1021,6 @@ taglib
 talloc
 tar
 tdb
-telegram-desktop-systemqt
 tevent
 texinfo
 thin-provisioning-tools
@@ -1058,7 +1056,6 @@ vim-runtime
 virtualbox
 virtualbox-host-dkms
 virtualgl
-visual-studio-code
 vlc
 volume_key
 vte-common
@@ -1174,4 +1171,7 @@ zsh-syntax-highlighting
 zstd
 zvbi
 command-not-found
+pacaur
 python-pywapi
+telegram-desktop-systemqt
+visual-studio-code
