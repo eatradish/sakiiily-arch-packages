@@ -502,6 +502,7 @@ libaccounts-glib
 libaccounts-qt
 libaio
 libappindicator-gtk2
+libappindicator-gtk3
 libarchive
 libass
 libassuan
@@ -534,6 +535,7 @@ libdaemon
 libdatrie
 libdbusmenu-glib
 libdbusmenu-gtk2
+libdbusmenu-gtk3
 libdbusmenu-qt5
 libdc1394
 libdca
@@ -577,6 +579,7 @@ libiec61883
 libime-git
 libimobiledevice
 libindicator-gtk2
+libindicator-gtk3
 libinput
 libixion
 libjpeg-turbo
@@ -1021,6 +1024,7 @@ taglib
 talloc
 tar
 tdb
+telegram-desktop
 tevent
 texinfo
 thin-provisioning-tools
