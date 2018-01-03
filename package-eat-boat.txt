@@ -14,6 +14,7 @@ amule
 anbox-git
 anbox-image
 anbox-modules-dkms-git
+android-studio
 android-tools
 appstream
 appstream-qt
