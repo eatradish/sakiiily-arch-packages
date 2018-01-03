@@ -1174,4 +1174,3 @@ zvbi
 command-not-found
 pacaur
 python-pywapi
-telegram-desktop-systemqt
